@@ -12,6 +12,6 @@ Miguel Adrian Soberano Palomares
 
 Este Proyectoe necesita ser descargado y descomprimido ya que la cantidad de archivos no me permitia subirlo, tambien es necesario agregar el sql en tu base de datos con el mismo nombre del archivo.
 
-## Contratacion
+## Contratación
 
 Si quieres contratarme puedes escribirme a adrian_1995mp@hotmail.com
