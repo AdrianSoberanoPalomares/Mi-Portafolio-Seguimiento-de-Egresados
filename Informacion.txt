@@ -1,0 +1,11 @@
+Hola Muchas gracias por visitar mi portafolio.
+
+Por el tamaño de los archivos y cantidad, no puedo subirlos sin comprimir.
+
+aqui estan dos Proyectos completos utilizando HTML, CSS, JAVASCRIPT, PHP Y SQL
+
+en cada archivo viene el Sql con el mismo nombre de la base de datos
+
+cualquier duda no dudes en preguntarmela.
+
+Gracias y hasta pronto.
