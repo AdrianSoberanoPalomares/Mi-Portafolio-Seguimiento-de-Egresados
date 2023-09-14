@@ -10,7 +10,7 @@ Miguel Adrian Soberano Palomares
 
 ## Instalación
 
-Este Proyectoe necesita ser descargado y descomprimido ya que la cantidad de archivos no me permitia subirlo, tambien es necesario agregar el sql en tu base de datos con el mismo nombre del archivo.
+Este Proyecto necesita ser descargado y descomprimido ya que la cantidad de archivos no me permitia subirlo, tambien es necesario agregar el sql en tu base de datos con el mismo nombre del archivo.
 
 ## Contratación
 
