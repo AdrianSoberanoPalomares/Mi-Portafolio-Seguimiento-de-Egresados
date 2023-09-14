@@ -1,6 +1,6 @@
-# Mis-portafolios-Egresados-AsesoriasPar
+# Mi-portafolio-Seguimiento de Egresados
 ## Descripción
-Estos dos Portafolios fueron echos en HTML, CSS, JAVASCRIPT, PHP Y SQL
+Este proyecto fue hecho en HTML, CSS, JAVASCRIPT, PHP Y SQL
 
 ## Autor
 Miguel Adrian Soberano Palomares
@@ -10,7 +10,7 @@ Miguel Adrian Soberano Palomares
 
 ## Instalación
 
-Estos dos Proyectos necesitan ser descargados y descomprimidos, tambien es necesario agregar el sql a tu base de datos con el mismo nombre del archivo.
+Este Proyectoe necesita ser descargado y descomprimido ya que la cantidad de archivos no me permitia subirlo, tambien es necesario agregar el sql en tu base de datos con el mismo nombre del archivo.
 
 ## Contratacion
 
