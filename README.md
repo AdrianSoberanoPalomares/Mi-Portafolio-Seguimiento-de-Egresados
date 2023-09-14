@@ -1,6 +1,6 @@
 # Mis-portafolios-Egresados-AsesoriasPar
 ## Descripción
-Estos dos Portafolios fueron echo en HTML, CSS, JAVASCRIPT, PHP Y SQL
+Estos dos Portafolios fueron echos en HTML, CSS, JAVASCRIPT, PHP Y SQL
 
 ## Autor
 Miguel Adrian Soberano Palomares
