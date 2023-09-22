@@ -10,10 +10,10 @@ Miguel Adrian Soberano Palomares
 
 ## Instalación
 
-Dado el tamaño y la cantidad de archivos involucrados, he optado por no subir el proyecto directamente al repositorio y crear el archivo comprimido llamado: egresados.rar.
+Dado el tamaño y la cantidad de archivos involucrados, he optado por no subir el proyecto directamente al repositorio y en su lugar crear el archivo comprimido llamado: egresados.rar donde encontraras el proyecto completo.
 Sin embargo, he proporcionado imágenes que muestran el funcionamiento completo de la página.
 
-Tambien es necesario agregar el sql en tu base de datos con el mismo nombre del archivo.
+Tambien es necesario agregar el sql llamado "egresados" en tu base de datos.
 
 ## Contratación
 
