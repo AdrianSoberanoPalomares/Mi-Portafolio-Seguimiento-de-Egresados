@@ -2,7 +2,8 @@
 
 Primero que nada, quiero agradecerte por visitar mi Portafolio. Estoy emocionado de compartir mi proyecto contigo.
 
-Dado el tamaño y la cantidad de archivos involucrados, he optado por no subirlos directamente al repositorio y crear el archivo comprimido llamado: egresados.rar.
+Dado el tamaño y la cantidad de archivos involucrados, he optado por no subir el proyecto directamente al repositorio 
+y crear el archivo comprimido llamado: egresados.rar.
 Sin embargo, he proporcionado imágenes que muestran el funcionamiento completo de la página.
 
 Este proyecto es un Sistema de Seguimiento de Egresados, desarrollado utilizando una variedad de tecnologías, incluyendo HTML, CSS, JavaScript, PHP, SQL, XAMPP y PHPMyAdmin. En la carpeta principal del poryecto, encontrarás el archivo SQL que corresponde a la base de datos del proyecto.
