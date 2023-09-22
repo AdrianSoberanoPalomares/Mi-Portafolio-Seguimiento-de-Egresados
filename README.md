@@ -10,7 +10,10 @@ Miguel Adrian Soberano Palomares
 
 ## Instalación
 
-Este Proyecto necesita ser descargado y descomprimido ya que la cantidad de archivos no me permitia subirlo, tambien es necesario agregar el sql en tu base de datos con el mismo nombre del archivo.
+Dado el tamaño y la cantidad de archivos involucrados, he optado por no subir el proyecto directamente al repositorio y crear el archivo comprimido llamado: egresados.rar.
+Sin embargo, he proporcionado imágenes que muestran el funcionamiento completo de la página.
+
+Tambien es necesario agregar el sql en tu base de datos con el mismo nombre del archivo.
 
 ## Contratación
 
