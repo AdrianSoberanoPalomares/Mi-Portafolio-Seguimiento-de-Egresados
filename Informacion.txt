@@ -6,7 +6,7 @@ Dado el tamaño y la cantidad de archivos involucrados, he optado por no subir e
 y en su lugar crear el archivo comprimido llamado: egresados.rar donde encontraras el proyecto completo.
 Sin embargo, he proporcionado imágenes que muestran el funcionamiento completo de la página.
 
-Este proyecto es un Sistema de Seguimiento de Egresados, desarrollado utilizando una variedad de tecnologías, incluyendo HTML, CSS, JavaScript, PHP, SQL, XAMPP y PHPMyAdmin. En la carpeta principal del poryecto, encontrarás el archivo SQL que corresponde a la base de datos del proyecto.
+Este proyecto es un Sistema de Seguimiento de Egresados, desarrollado utilizando una variedad de tecnologías, incluyendo HTML, CSS, JavaScript, PHP, SQL, XAMPP y PHPMyAdmin. En la carpeta principal del poryecto, encontrarás el archivo SQL llamado "egresados" que corresponde a la base de datos del proyecto.
 
 Si tienes alguna pregunta o necesitas más información sobre el proyecto, no dudes en ponerte en contacto conmigo en adrian_1995mp@hotmail.com. 
 Estoy disponible para responder tus consultas y discutir cualquier aspecto del proyecto que te interese.
